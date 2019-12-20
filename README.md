@@ -1,4 +1,4 @@
-The project contains the following files - 
+This repository contains the following files - 
 
 1) Report.pdf - Contains our final project report, which explains our objectives, sampling strategy, metrics and models used, results, limitations and conclusion. The report does not contain our EDA and model exploration, which is covered inside our notebooks.
 2) 01_data_wrangling_eda.ipynb - Contains the code for sampling and EDA of our project.
